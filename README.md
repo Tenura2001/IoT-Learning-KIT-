@@ -5,7 +5,7 @@ Beginner friendly IoT Learning KIT with ESP32 Dev Module
 ## 🌐 IoT Learning Kit Version_01– Beginner to Innovator
 <br>
 Welcome to the **IoT Learning Kit** – a hands-on learning journey combining **ESP32**, **sensors**, **actuators**, and **real-world IoT applications**. This kit is designed to help you learn and prototype embedded systems, edge AI, and hardware interactions effectively.
-<br>
+
 ### 🧰 What’s Inside
 <br>
 * ✅ **ESP32 Dev Board**
