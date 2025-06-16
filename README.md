@@ -67,6 +67,11 @@ Note:
 *  *(Coming soon)*: IoT Data Uplink via Wi-Fi/MQTT
 
 
+![IoT Kit Setup](Schematic_IoT-dev-Kit_V_1.png)
+
+
+
+
 **Tenura Pinsara Pasandul**
 <br>
  Electronics & Embedded Systems |  Robotics & Edge AI Enthusiast
