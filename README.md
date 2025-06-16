@@ -76,7 +76,7 @@ Note:
 
 ## IoT KiT
 
-![Demo GIF](Demo.gif)
+![Demo GIF](demo.gif)
 
 
 **Tenura Pinsara Pasandul**
