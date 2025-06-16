@@ -21,24 +21,24 @@ Welcome to the **IoT Learning Kit** – a hands-on learning journey combining **
 
 ---
 
-### 🚀 Key Features
+###  Key Features
 
-* 🔧 **Modular Code Examples**: Clean Arduino/ESP32 code for each component
-* 🎛️ **Analog + Digital Control**: Potentiometer-based LED dimming, buttons for tones
-* 🖥️ **Real-Time OLED Display**: View sensor data and system states
-* 🔄 **Shift Register Animations**: Knight Rider LED effects
-* 📦 **Expandable**: Designed for Edge AI, IoT dashboards, MQTT, Firebase, and more
-* 🧠 **Learn by Doing**: Tied closely with project-based learning methods
+*  **Modular Code Examples**: Clean Arduino/ESP32 code for each component
+*  **Analog + Digital Control**: Potentiometer-based LED dimming, buttons for tones
+*  **Real-Time OLED Display**: View sensor data and system states
+*  **Shift Register Animations**: Knight Rider LED effects
+*  **Expandable**: Designed for Edge AI, IoT dashboards, MQTT, Firebase, and more
+*  **Learn by Doing**: Tied closely with project-based learning methods
 
 ---
 
-### 🗂️ Project Demos (Examples)
+###  Project Demos (Examples)
 
-* 📊 **OLED Display with Sensors**
-* 🎶 **Tone Generation with Button Controls**
-* 🌈 **LED Brightness via Potentiometer**
-* 🔁 **Knight Rider LED Sequence with Shift Register**
-* 📡 *(Coming soon)*: IoT Data Uplink via Wi-Fi/MQTT
+*  **OLED Display with Sensors**
+*  **Tone Generation with Button Controls**
+*  **LED Brightness via Potentiometer**
+*  **Knight Rider LED Sequence with Shift Register**
+*  *(Coming soon)*: IoT Data Uplink via Wi-Fi/MQTT
 
 
 **Tenura Pinsara Pasandul**
