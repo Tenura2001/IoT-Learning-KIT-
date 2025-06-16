@@ -66,9 +66,13 @@ Note:
 *  **Knight Rider LED Sequence with Shift Register**
 *  *(Coming soon)*: IoT Data Uplink via Wi-Fi/MQTT
 
+## Schematic of PCB
 
 ![IoT Kit Setup](Schematic_IoT-dev-Kit_V_1.png)
 
+## 3D look of PCB
+
+![IoT Kit Setup](3D_of_PCB_V_1.png)
 
 
 
