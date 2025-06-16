@@ -74,6 +74,9 @@ Note:
 
 ![IoT Kit Setup](3D_of_PCB_V_1.png)
 
+## IoT KiT
+
+![Demo GIF](demo.gif)
 
 
 **Tenura Pinsara Pasandul**
